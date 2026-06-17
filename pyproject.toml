@@ -1,0 +1,7 @@
+[project]
+name = "spain-energy-tsf"
+version = "0.1.0"
+description = "Time-series study by forecasting spanish electricity and a comparison of forecasting models."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
